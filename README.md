@@ -33,3 +33,6 @@ Features:
 - Network reconnaissance
 - Defensive security concepts
 - Packet crafting and analysis
+## Demo
+
+![PortScan Demo](screenshots/portscan-demo.png)
