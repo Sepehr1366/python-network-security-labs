@@ -35,4 +35,4 @@ Features:
 - Packet crafting and analysis
 ## Demo
 
-![PortScan Demo](screenshots/portscan-demo.png)
+![PortScan Demo](portscan-demo.png)
